@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"e:\\Academic\\Algorithm Design\\Lab\\G01 - 4\\C.cpp","tests":[{"id":1764826388381,"input":"2\n6 9\n-1 0 3 5 9 12\n6 2\n-1 0 3 5 9 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Academic\\Algorithm Design\\Lab\\G01 - 4\\C.cpp","group":"local","local":true}

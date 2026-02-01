@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\Academic\\CoU\\Y2S1\\Algorithm Design\\Lab\\G01 - 1-8-2025\\A.cpp","tests":[{"id":1767848867351,"input":"3\n123\n-123\n120","output":"Case 1: 321\nCase 2: -321\nCase 3: 21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Academic\\CoU\\Y2S1\\Algorithm Design\\Lab\\G01 - 1-8-2025\\A.cpp","group":"local","local":true}
