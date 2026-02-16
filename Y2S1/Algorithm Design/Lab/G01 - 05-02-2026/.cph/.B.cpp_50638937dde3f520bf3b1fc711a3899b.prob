@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"e:\\Academic\\CoU\\Y2S1\\Algorithm Design\\Lab\\G01 - 05-02-2026\\B.cpp","tests":[{"id":1770269151022,"input":"3\n2 5 8\n6 1 1\n10 2 3","output":"8\n8\n144"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Academic\\CoU\\Y2S1\\Algorithm Design\\Lab\\G01 - 05-02-2026\\B.cpp","group":"local","local":true}
